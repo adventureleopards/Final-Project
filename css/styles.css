@@ -43,14 +43,19 @@ Hero .hero {
 
 .column img {
     width: 45%;
-    float: right;
-    padding-left: 10px;
-    
+    float: left;
+    padding-right: 10px;
+
+}
+
+.col-one {
+    background-color: gainsboro;
+    background-image: url('/img/IMG-0663.JPG');
 }
 
 .col-two {
     background-color: gainsboro;
-    background-image: url('/img/beach-sunset.jpg');
+    background-image: url('/img/IMG-1710.JPG');
 }
 
 .text-back {
