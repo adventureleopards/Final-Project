@@ -45,6 +45,7 @@ Hero .hero {
     width: 45%;
     float: right;
     padding-left: 10px;
+    
 }
 
 .col-two {
@@ -123,6 +124,6 @@ footer {
 }
 
 /* icons */
-.fa-dog {
+.fa-certificate {
     color: rgb(233, 218, 8);
 }
