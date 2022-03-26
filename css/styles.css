@@ -112,6 +112,17 @@ section {
 
 }
 
+/* Footer */
 footer {
     clear: both;
+    padding: px;
+    border: 1px solid black;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+/* icons */
+.fa-dog {
+    color: white;
 }
